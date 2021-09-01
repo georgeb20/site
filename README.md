@@ -1,2 +1,3 @@
-### Heading level 3
-Geo
+<p align="center">
+  ### George B
+</p>
